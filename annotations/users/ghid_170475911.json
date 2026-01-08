@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "username": "ghid_170475911",
+  "login": "an10ymoussubmissi10",
+  "githubUserId": 170475911,
+  "updatedAt": "2026-01-08T14:32:04.415Z",
+  "datasets": {
+    "suo": {
+      "fieldsToAnnotate": [
+        "LVL2"
+      ],
+      "lastAccessedAt": "2026-01-08T14:31:25.518Z"
+    }
+  },
+  "suggestions": {
+    "LVL2:DCs": [
+      {
+        "id": "6b7ba54e-3fd9-483b-92c1-2c8b59616a6d",
+        "label": "adad",
+        "ontologyId": null,
+        "evidence": null,
+        "proposedBy": "ghid_170475911",
+        "proposedAt": "2026-01-08T14:31:35.637Z",
+        "editedAt": null,
+        "markers": null
+      }
+    ],
+    "LVL2:B_cell_lineage": [
+      {
+        "id": "5d4d060c-79f2-4e28-a15e-34ce019fb880",
+        "label": "blabla",
+        "ontologyId": null,
+        "evidence": null,
+        "proposedBy": "ghid_170475911",
+        "proposedAt": "2026-01-08T14:31:54.268Z",
+        "editedAt": null,
+        "markers": null
+      }
+    ]
+  },
+  "votes": {
+    "6b7ba54e-3fd9-483b-92c1-2c8b59616a6d": "up",
+    "5d4d060c-79f2-4e28-a15e-34ce019fb880": "up"
+  },
+  "comments": {
+    "6b7ba54e-3fd9-483b-92c1-2c8b59616a6d": [
+      {
+        "id": "2f7fcaaf-e5ff-4f12-b9f3-c96d763f037d",
+        "text": "asdad",
+        "authorUsername": "ghid_170475911",
+        "createdAt": "2026-01-08T14:31:45.288Z",
+        "editedAt": null
+      }
+    ]
+  },
+  "deletedSuggestions": {}
+}
