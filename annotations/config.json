@@ -19,7 +19,9 @@
     {
       "datasetId": "suo",
       "name": "suo",
-      "fieldsToAnnotate": [],
+      "fieldsToAnnotate": [
+        "LVL2"
+      ],
       "annotatableSettings": {},
       "closedFields": []
     }
