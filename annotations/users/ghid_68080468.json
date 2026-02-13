@@ -5,15 +5,58 @@
   "githubUserId": 68080468,
   "displayName": "Kemal Inecik",
   "orcid": "0000-0001-7379-9093",
-  "updatedAt": "2026-01-08T14:26:20.805Z",
+  "updatedAt": "2026-02-13T14:11:27.964Z",
   "datasets": {
     "suo": {
-      "fieldsToAnnotate": [],
-      "lastAccessedAt": "2026-01-08T14:20:18.360Z"
+      "fieldsToAnnotate": [
+        "LVL2"
+      ],
+      "lastAccessedAt": "2026-02-13T14:09:29.078Z"
     }
   },
-  "suggestions": {},
-  "votes": {},
-  "comments": {},
+  "suggestions": {
+    "LVL2:B_cell_lineage": [
+      {
+        "id": "3f01682b-191c-4680-bda8-ed3396d4ca7a",
+        "label": "B cell",
+        "ontologyId": "CL:0000236",
+        "evidence": null,
+        "proposedBy": "ghid_68080468",
+        "proposedAt": "2026-02-13T13:37:07.851Z",
+        "editedAt": null,
+        "markers": [
+          "FCRL4",
+          "ITGAX"
+        ]
+      }
+    ],
+    "LVL2:ILC": [
+      {
+        "id": "f4b58b1a-35b5-4ae5-9692-45e49c713301",
+        "label": "ICL",
+        "ontologyId": null,
+        "evidence": null,
+        "proposedBy": "ghid_68080468",
+        "proposedAt": "2026-02-13T14:11:00.239Z",
+        "editedAt": null,
+        "markers": null
+      }
+    ]
+  },
+  "votes": {
+    "3f01682b-191c-4680-bda8-ed3396d4ca7a": "up",
+    "f4b58b1a-35b5-4ae5-9692-45e49c713301": "up"
+  },
+  "comments": {
+    "f4b58b1a-35b5-4ae5-9692-45e49c713301": [
+      {
+        "id": "7eec9f46-d3a0-4197-8e8e-f3dd486b0d34",
+        "text": "qewlqk",
+        "authorUsername": "ghid_68080468",
+        "createdAt": "2026-02-13T14:11:04.518Z",
+        "editedAt": null
+      }
+    ]
+  },
   "deletedSuggestions": {}
 }
